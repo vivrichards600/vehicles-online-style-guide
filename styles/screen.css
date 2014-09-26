@@ -1620,7 +1620,7 @@ xmp {
 padding-left: 15px;
 padding-right: 15px;
 position: relative;
-overflow: hidden;
+overflow: auto;
 border: 1px solid #bfc1c3;
 margin-top: 15px;
 margin-bottom: 45px;
